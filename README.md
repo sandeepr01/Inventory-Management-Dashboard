@@ -2,32 +2,32 @@
 This project involves the creation of an Inventory Management Dashboard using Power BI, aimed at providing comprehensive insights into inventory-related metrics. The dashboard leverages various Key Performance Indicators (KPIs) and employs different methodologies within Power BI to present a cohesive and informative overview of the inventory status.
 
 ## Key Performance Indicators (KPIs) Included:
-1. Inventory Turnover : 
-   Measures the frequency with which inventory is sold over a specific period.
-2. Stock Re-order Status :
-   Indicates the status of inventory items, highlighting when re-ordering is required based on predefined thresholds.
-3. Inventory Valuation :
-   Reflects the total value of the inventory, often calculated by cost or market value.
-4. ABC Analysis :
-   Classifies items into categories (A, B, C) based on their importance and impact on inventory costs.
-5. XYZ Analysis :
-   Segregates items based on variability in demand.
-6. Vendor Analysis w.r.t. Value and Quantity :
-   Analyzes the performance of different vendors based on the value and quantity of items supplied.
-7. Warehouse Position w.r.t. Value and Quantity :
-   Provides insights into inventory distribution across warehouses in terms of value and quantity.
-8. Forecasting w.r.t. Revenue and Quantity :
-   Uses predictive analytics to forecast future revenue and quantity based on historical data.
+### 1. Inventory Turnover : 
+   * Measures the frequency with which inventory is sold over a specific period.
+### 2. Stock Re-order Status :
+   * Indicates the status of inventory items, highlighting when re-ordering is required based on predefined thresholds.
+### 3. Inventory Valuation :
+   * Reflects the total value of the inventory, often calculated by cost or market value.
+### 4. ABC Analysis :
+   * Classifies items into categories (A, B, C) based on their importance and impact on inventory costs.
+### 5. XYZ Analysis :
+   * Segregates items based on variability in demand.
+### 6. Vendor Analysis w.r.t. Value and Quantity :
+   * Analyzes the performance of different vendors based on the value and quantity of items supplied.
+### 7. Warehouse Position w.r.t. Value and Quantity :
+   * Provides insights into inventory distribution across warehouses in terms of value and quantity.
+### 8. Forecasting w.r.t. Revenue and Quantity :
+   * Uses predictive analytics to forecast future revenue and quantity based on historical data.
 
 ## Methodology Leveraged in Power BI:
-(i) Data Transformation
-* Process of cleaning, shaping, and preparing raw data for analysis using Power Query Editor.
-(ii) Data Modeling
-* Organizing data into a structured model for efficient analysis and visualization.
-(iii) DAX Functions
-* Implementing Data Analysis Expressions to create calculated columns, measures, and manipulate data.
-(iv) Data Visualization
-* Utilizing various Power BI visualizations to present insights in an understandable and visually appealing manner.
+### (i) Data Transformation
+   * Process of cleaning, shaping, and preparing raw data for analysis using Power Query Editor.
+### (ii) Data Modeling
+   * Organizing data into a structured model for efficient analysis and visualization.
+### (iii) DAX Functions
+   * Implementing Data Analysis Expressions to create calculated columns, measures, and manipulate data.
+### (iv) Data Visualization
+   * Utilizing various Power BI visualizations to present insights in an understandable and visually appealing manner.
 
 ## Project Structure:
 * Data Folder: Contains the raw and processed data used for the dashboard.
