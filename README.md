@@ -60,4 +60,4 @@ This project is created as a demonstration and not for commercial use. Some data
   1. Reduced excess inventory and associated costs by 20% through better demand forecasting.
   2. Minimized stockouts and lost sales by optimizing reorder points and inventory levels.
   3. Enhanced decision-making by giving stakeholders real-time access to critical inventory metrics.
-* This project underscores your ability to use SQL for data integration and transformation, as well as your expertise in creating actionable and visually appealing dashboards in Power BI. It's a valuable addition to your resume to showcase your data management and visualization skills.
+
